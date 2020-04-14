@@ -14,4 +14,3 @@ The models were trained on Cloud TPUs on [Google Colab](http://colab.research.go
 
 FILES:
 * **Patent_Classification_BERT.ipynb** - the project itself (Jupyter Notebook)
-* **Patent_Classification_BERT.html** - static HTML version
